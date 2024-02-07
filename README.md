@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi👋, I'm Julian (Hengzhao Hong).
+
+- 👯 I'm currently a Ph.D student in Xiamen University, majoring in statistics. I'm expected to graduate in June 2026.
+- 🔭 I’m currently working on quant researches in high-frequency trading.
+
+* [Blog](https://www.hengzhaohong.cn)
 
 <!--
 **hengzhaohong/hengzhaohong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
