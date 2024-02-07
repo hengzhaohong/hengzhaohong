@@ -1,4 +1,4 @@
-### Hi👋, I'm Julian (Hengzhao Hong).
+### Hi 👋, I'm Julian (Hengzhao Hong).
 
 - 👯 I'm currently a Ph.D student in Xiamen University, majoring in statistics. I'm expected to graduate in June 2026.
 - 🔭 I’m currently working on my papers and quant researches in high-frequency trading.
