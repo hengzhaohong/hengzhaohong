@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Julian (Hengzhao Hong).
 
 - 👯 I'm currently a Ph.D student in Xiamen University, majoring in statistics.
-- 🔭 I’m currently working on my papers and quant researches in high-frequency trading.
+<!-- - 🔭 I’m currently working on my papers and quant researches in high-frequency trading.-->
 - 😄 Programming: Python, R, C++, Rust, TypeScript.
 
 <!-- [Blog](https://www.hengzhaohong.cn) -->
