@@ -1,4 +1,4 @@
-### Hi 👋, I'm Michael Hong (Chinese name: Hengzhao Hong).
+### Hi 👋, I'm Michael Hong (Hengzhao).
 
 - 👯 I'm currently a Ph.D student in Xiamen University, majoring in statistics.
 <!-- - 🔭 I’m currently working on my papers and quant researches in high-frequency trading.-->
